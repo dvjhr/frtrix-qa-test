@@ -48,7 +48,7 @@ def main():
     test_results = {
         "Test Name": "Demoblaze E-commerce Test Suite",
         "Test Date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "Test Author": "Your Name",
+        "Test Author": "Dava Aditya Jauhar",
         "Test Result": {
             "Register": {
                 "Test Scenario": "Register with valid credentials",

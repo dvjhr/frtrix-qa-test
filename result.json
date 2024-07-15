@@ -1,0 +1,32 @@
+{
+    "Test Name": "Demoblaze E-commerce Test Suite",
+    "Test Date": "2024-07-15 07: 27: 20",
+    "Test Author": "Dava Aditya Jauhar",
+    "Test Result": {
+        "Register": {
+            "Test Scenario": "Register with valid credentials",
+            "Test Case": "Register with VALID username and VALID password",
+            "Status": "True",
+            "Time": 2.81
+        },
+        "Login": {
+            "Test Scenario": "Login with valid credentials",
+            "Test Case": "Login with VALID (registered) username and password",
+            "Status": "True",
+            "Time": 2.86
+        },
+        "Add to Cart": {
+            "Test Scenario": "Add a product to cart",
+            "Test Case": "Add Samsung galaxy s6 to cart",
+            "Status": "True",
+            "Time": 14.02
+        },
+        "Checkout": {
+            "Test Scenario": "Complete checkout process",
+            "Test Case": "User able to check out",
+            "Status": "True",
+            "Time": 3.5
+        }
+    },
+    "Overall Result": "4/4"
+}
